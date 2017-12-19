@@ -38,7 +38,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "ladda": "file:C:\\Users\\theod\\Documents\\GitHub\\ladda-1.0.5.tgz"
+    "ladda": "^1.0.5"
   },
   "peerDependencies": {
     "@angular/core": "^5.0.0"
